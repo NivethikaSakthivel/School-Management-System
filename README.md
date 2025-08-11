@@ -7,7 +7,7 @@ It uses **MySQL Database** for storing and managing all the required data.
 ---
 
 ## 🛠 Tech Stack
-- **Java** (with NetBeans IDE)
+- **Java**
 - **MySQL**
 - **WAMP Server**
 - **JDBC**
