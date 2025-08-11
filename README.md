@@ -6,11 +6,6 @@ It uses **MySQL Database** for storing and managing all the required data.
 
 ---
 
-## 📥 Download
-**Desktop Application:** [SchoolManagementSystem.exe](#) *(https://t.me/eagle_programming/22)*
-
----
-
 ## 🛠 Tech Stack
 - **Java** (with NetBeans IDE)
 - **MySQL**
